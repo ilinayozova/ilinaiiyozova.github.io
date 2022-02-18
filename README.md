@@ -92,3 +92,15 @@ Contributions, issues, and feature requests are welcome! For major changes, plea
 
 Licensed under [MIT](LICENSE)
 
+<footer class="footer py-3 text-muted text-center">
+  <div class="footer-site text-uppercase pb-2 font-weight-bold">
+    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+  </div>
+  &copy; {{ dateFormat "2006" now }} All Rights Reserved<br>
+  <div>
+    Template designed by 
+    <a href="https://github.com/gurusabarish/hugo-profile" target="_blank">Hugo profile</a> | 
+    <a href="https://www.linkedin.com/in/gurusabarish/" target="_blank">Gurusabarish</a>
+  </div>
+</footer>
+
