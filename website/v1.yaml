@@ -63,7 +63,7 @@ params:
       #url: https://guru.com
 
   # About
-  profile_image: "/images/profile.webp"
+  profile_image: "/images/pic1.jpg"
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
   job: "your role"
