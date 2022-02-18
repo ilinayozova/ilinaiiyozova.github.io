@@ -1,6 +1,6 @@
 baseURL: "https://ilinayozova.github.io/"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ilina-profile"
 theme: "./.."
 relativeURLs: true
 
